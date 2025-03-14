@@ -1,0 +1,11 @@
+venv
+models/**/*.pth
+wandb
+data/*
+src.egg-info
+__pycache__
+
+.env
+
+reports/*.pdf
+reports/*.csv
