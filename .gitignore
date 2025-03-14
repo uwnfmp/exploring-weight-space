@@ -1,7 +1,6 @@
 venv
 models/**/*.pth
 wandb
-data/*
 src.egg-info
 __pycache__
 
